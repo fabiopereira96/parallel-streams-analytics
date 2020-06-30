@@ -3,3 +3,4 @@ junit-4.12.jar
 *.iml
 pcdp-core-0.0.4-SNAPSHOT.jar
 target/*
+*.idea
